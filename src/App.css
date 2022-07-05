@@ -1,0 +1,45 @@
+.Had{
+  background-color: blue;
+  
+}
+.container{
+  text-align: center;
+  margin-top: 5rem;
+
+  
+}
+.card{
+
+ width: 10%;}
+
+
+
+.home{
+  text-align: center;
+  margin-top: 5rem;
+  
+}
+
+
+#h1,#h3{text-align: center;
+  text-align: center;
+  size: 100px;
+}
+Card.Img{
+  margin-left: 10px;
+}
+.button1{
+
+  color: aliceblue;
+  border: 2px solid blue;
+  
+  
+ 
+}.button1:hover{
+  background-color: rgb(124, 124, 139);
+  color: black;
+}
+*{
+  margin: 0%;
+  padding: 0%;
+}
